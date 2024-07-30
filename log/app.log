@@ -1,0 +1,8 @@
+time="2024-07-30T10:43:35+07:00" level=info msg="This is an info message"
+time="2024-07-30T10:43:35+07:00" level=warning msg="This is a warning message"
+time="2024-07-30T10:43:35+07:00" level=error msg="This is an error message"
+time="2024-07-30T10:43:35+07:00" level=info msg="User logged in" id=1234 user=JohnDoe
+time="2024-07-30T10:45:14+07:00" level=info msg="This is an info message"
+time="2024-07-30T10:45:14+07:00" level=warning msg="This is a warning message"
+time="2024-07-30T10:45:14+07:00" level=error msg="This is an error message"
+time="2024-07-30T10:45:14+07:00" level=info msg="User logged in" id=1234 user=JohnDoe
